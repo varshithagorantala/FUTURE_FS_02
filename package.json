@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongoose": "^9.9.5"
+  }
+}
